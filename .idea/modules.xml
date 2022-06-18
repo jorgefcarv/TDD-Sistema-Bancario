@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sistema-bancario-java-junit-master/sistema-bancario.iml" filepath="$PROJECT_DIR$/sistema-bancario-java-junit-master/sistema-bancario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sistema-bancario-java-junit-master.iml" filepath="$PROJECT_DIR$/.idea/sistema-bancario-java-junit-master.iml" />
+    </modules>
+  </component>
+</project>
